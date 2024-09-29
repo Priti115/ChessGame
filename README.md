@@ -1,4 +1,4 @@
-# Play-to-Earn Chess Game
+![image](https://github.com/user-attachments/assets/10b4a6b5-77ec-495b-baee-3611782bd35b)# Play-to-Earn Chess Game
 
 ## Overview
 The **Play-to-Earn Chess Game** is a decentralized chess platform that combines the classic game of chess with blockchain technology. Players can earn tokens based on their gameplay, enabling them to monetize their skills in a fun and interactive environment. The project leverages smart contracts to manage rewards, gameplay mechanics, and user interactions, providing a transparent and secure gaming experience.
@@ -22,14 +22,18 @@ The **Play-to-Earn Chess Game** is a decentralized chess platform that combines 
   - Truffle Suite (for development and deployment)
   - Infura (for connecting to the Ethereum network)
 
-## Installation
+## Deployment Links
 1. Clone the repository:
    ```bash
-   https://richbandana.github.io/NeoXGrind_Chess/
+- https://priti115.github.io/ChessGame/
+  ```bash
+2. PPT:
+   ```bash
+- https://docs.google.com/presentation/d/1VAIAYkR-0JRM8axyvU12gouyUbdUYWO4/edit#slide=id.p1
+
 
 ## Demo video :
-- https://priti115.github.io/ChessGame/
-
+- https://youtu.be/-YyPBunH7Wg?si=OmSYQECPyDaUldDk
 
 ## Team’s Contact Information
 - Phone no.- : 8102271172 
