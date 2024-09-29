@@ -25,15 +25,15 @@ The **Play-to-Earn Chess Game** is a decentralized chess platform that combines 
 ## Deployment Links
 1. Clone the repository:
    ```bash
-- https://priti115.github.io/ChessGame/
-  ```bash
+    https://priti115.github.io/ChessGame/
+   ```bash
 2. PPT:
    ```bash
-- https://docs.google.com/presentation/d/1VAIAYkR-0JRM8axyvU12gouyUbdUYWO4/edit#slide=id.p1
+    https://drive.google.com/drive/u/0/folders/12GC87kapxsKF0ETjjgzVtfPCmiHyS_Fj
 
 
 ## Demo video :
-- https://youtu.be/-YyPBunH7Wg?si=OmSYQECPyDaUldDk
+- https://youtu.be/-YyPBunH7Wg?si=tro-M2t08ogvcVkG
 
 ## Team’s Contact Information
 - Phone no.- : 8102271172 
