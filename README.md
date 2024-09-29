@@ -36,7 +36,9 @@ The **Play-to-Earn Chess Game** is a decentralized chess platform that combines 
 - https://youtu.be/-YyPBunH7Wg?si=tro-M2t08ogvcVkG
 
 ## Team’s Contact Information
-- Phone no.- : 8102271172 
-           - : 7701913192
-- email    - : richab820@gmail.com
-           - : pritidarshini.biswal2006@gmail.com
+1. Phone no.
+   - : 8102271172 
+   - : 7701913192
+2. email
+   - : richab820@gmail.com
+   - : pritidarshini.biswal2006@gmail.com
